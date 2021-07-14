@@ -1,6 +1,6 @@
 # Oblivion ISO auto-mounter plugin for MO2
 This plugin aimed to auto-mount ISO image for **LEGALLY** owned copies of
-localized Oblivion copies(russian 1C for example).
+localized Oblivion game(russian 1C for example).
 # Prerequisites
 Powershell installed and Get-DiskImage\Mount-DiskImage commands available (Windows 10 works by default, 
 not sure about Windows 7).
